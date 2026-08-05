@@ -1,3 +1,21 @@
 * {
-    border: 1px solid #ffffff;
+    /*border: 1px solid #ffffff;*/
+margin: 0;
+padding: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cabecalho{
+    background-color: cadetblue;
+    color: cornflowerblue;
+}
+
+.conteudo{
+    background-color: bisque;
+    color: antiquewhite;
+
+}
+#imglogo{
+    width: 20%;
+    height: 20%;
 }
